@@ -7,3 +7,12 @@ input[type=search]:focus {
     width: 500px;
     transition: all 0.4s ease-out;
 }
+.jumbo {
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 395px;
+    background-color: #000;
+}
+.jumbo img {
+    width: 100%;
+}
